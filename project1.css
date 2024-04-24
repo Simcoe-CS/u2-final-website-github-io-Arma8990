@@ -1,0 +1,73 @@
+.knewave-regular {
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body{
+    font-family: "Knewave", system-ui;
+  }
+  
+.h1a {
+    text-align: center;
+    font-size: xx-large;
+    color: crimson;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 0px;
+    width: auto;
+    font-weight: 900;
+}
+
+.h1e {
+    text-align: left;
+    font-size: xx-large;
+    color: black;
+    text-decoration: underline;
+}
+
+.p2 {
+    text-align: left;
+    color: black;
+    width: auto;
+    margin: auto;
+}
+
+.body1 {
+    background-image: linear-gradient(Blue, White, white, White, red);
+}
+
+.body2 {
+    background-image: linear-gradient(black, grey,grey,white);
+    height: 100vh;
+}
+
+.body3 {
+    background-image: linear-gradient(white,red,red,black);
+    height: 100vh;
+}
+
+.body4 {
+    background-image: linear-gradient(black, white);
+    height: 100vh;
+}
+
+.Navdiv {
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+    top: 0px;
+    border: 5px solid black;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
+
+a {
+    color: black;
+}
